@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.exercicio1;
 
 public class Pessoa implements Precedente<Pessoa> {
     private String nome;

@@ -1,4 +1,4 @@
-package bootcamp;
+package bootcamp.exercicio1;
 
 public class SortUtil {
     public static <T> T[] sort(Precedente arr[]) {
